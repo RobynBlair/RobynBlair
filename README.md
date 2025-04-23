@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on creating technical projects for LGBTQ+ people and communities.
 - 📫 How to reach me: Robyn@SandAngel.com
 - ₿ Dune Profile: https://dune.com/robynblair
-- 😄 Pronouns: They/She
 - ⚡ Fun fact: I learned to play a musical saw from my grandfather.
 
 <!---
