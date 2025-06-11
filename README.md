@@ -4,6 +4,9 @@
 - 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities.
 - 📫 How to reach me: Robyn@SandAngel.com
 - 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
+- 📝 Resume: https://www.sandangel.com/resume.txt
+- 📝 Resume: https://www.sandangel.com/resume.docx
+- 📝 Resume: https://www.sandangel.com/resume.pdf
 - 👩🏻‍💻 GitHub: https://github.com/robynblair
 - 🦖 GitHub: https://github.com/bigrexsoftware
 - ⚡ Fun fact: I learned to play a musical saw from my grandfather.
