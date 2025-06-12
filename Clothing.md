@@ -8,6 +8,7 @@
 - Modcloth - https://modcloth.com/
 - Modlily - https://www.modlily.com/
 - Steve Madden - https://www.stevemadden.com/
+- Nordstrom Rack - https://www.nordstromrack.com/
 
 # Footwear
 
