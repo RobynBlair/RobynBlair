@@ -7,12 +7,14 @@
 - Everswear - https://www.everswear.com/
 - Modcloth - https://modcloth.com/
 - Modlily - https://www.modlily.com/
+- Steve Madden - https://www.stevemadden.com/
 
 # Footwear
 
 - Dr. Martens - https://www.drmartens.com/
 - Journeys - https://www.journeys.com/women/womens-shoes
 - Aerosoles - https://www.aerosoles.com/
+- Skechers - https://www.skechers.com/
 
 # Bras
 
