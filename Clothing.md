@@ -6,3 +6,4 @@
 # Footwear
 
 - Dr. Martens - https://www.drmartens.com/
+- Journeys - https://www.journeys.com/women/womens-shoes
