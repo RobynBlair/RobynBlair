@@ -17,6 +17,7 @@
 - Aerosoles - https://www.aerosoles.com/
 - Skechers - https://www.skechers.com/
 
-# Bras
+# Underwear
 
+- TomboyX - https://tomboyx.com/
 - Cherries - https://getfitcherries.com/
