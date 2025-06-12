@@ -4,6 +4,7 @@
 - Belle Poque - https://bellepoque.com/
 - Verillas - https://verillas.com/
 - Versatta Kilts - https://versattakilts.com/
+- Halara - https://thehalara.com/
 - Everswear - https://www.everswear.com/
 - Modcloth - https://modcloth.com/
 - Modlily - https://www.modlily.com/
