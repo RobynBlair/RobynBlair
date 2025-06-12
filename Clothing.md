@@ -6,6 +6,7 @@
 - Versatta Kilts - https://versattakilts.com/
 - Everswear - https://www.everswear.com/
 - Modcloth - https://modcloth.com/
+- Modlily - https://www.modlily.com/
 
 # Footwear
 
