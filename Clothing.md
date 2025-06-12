@@ -9,6 +9,7 @@
 
 - Dr. Martens - https://www.drmartens.com/
 - Journeys - https://www.journeys.com/women/womens-shoes
+- Aerosoles - https://www.aerosoles.com/
 
 # Bras
 
