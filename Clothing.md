@@ -2,6 +2,8 @@
 
 - Scarlett Darkness - https://scarletdarkness.com/
 - Belle Poque - https://bellepoque.com/
+- Verillas - https://verillas.com/
+- Versatta Kilts - https://versattakilts.com/
 - Everswear - https://www.everswear.com/
 - Modcloth - https://modcloth.com/
 
