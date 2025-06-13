@@ -1,5 +1,6 @@
 # Clothing
 
+- Allegra K - https://www.allegra-k.com/
 - Scarlett Darkness - https://scarletdarkness.com/
 - Belle Poque - https://bellepoque.com/
 - Verillas - https://verillas.com/
