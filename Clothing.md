@@ -10,6 +10,7 @@
 - Modlily - https://www.modlily.com/
 - Steve Madden - https://www.stevemadden.com/
 - Nordstrom Rack - https://www.nordstromrack.com/
+- Lee - https://www.lee.com/shop/women-clothing-jeans
 
 # Footwear
 
