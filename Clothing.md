@@ -24,5 +24,6 @@
 
 # Underwear
 
-- TomboyX - https://tomboyx.com/
 - Cherries - https://getfitcherries.com/
+- TomboyX - https://tomboyx.com/
+
