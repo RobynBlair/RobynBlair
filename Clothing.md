@@ -11,6 +11,7 @@
 - Scarlett Darkness - https://scarletdarkness.com/
 - Steve Madden - https://www.stevemadden.com/
 - Torrid - https://www.torrid.com
+- Venus - https://www.venus.com
 - Verillas - https://verillas.com/
 - Versatta Kilts - https://versattakilts.com/
 
