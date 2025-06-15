@@ -4,6 +4,7 @@
 - Belle Poque - https://bellepoque.com/
 - Everswear - https://www.everswear.com/
 - Halara - https://thehalara.com/
+- Hot Topic - https://www.hottopic.com/
 - Lee - https://www.lee.com/shop/women-clothing-jeans
 - Modcloth - https://modcloth.com/
 - Modlily - https://www.modlily.com/
