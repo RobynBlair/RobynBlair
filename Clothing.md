@@ -20,8 +20,8 @@
 - Aerosoles - https://www.aerosoles.com/
 - Dr. Martens - https://www.drmartens.com/
 - Journeys - https://www.journeys.com/women/womens-shoes
-
 - Skechers - https://www.skechers.com/
+- YRU - https://yrushoes.com/
 
 # Underwear
 
