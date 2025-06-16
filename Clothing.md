@@ -9,6 +9,7 @@
 - Modcloth - https://modcloth.com/
 - Modlily - https://www.modlily.com/
 - Nordstrom Rack - https://www.nordstromrack.com/
+- Retro Stage - https://www.retro-stage.com/
 - Scarlett Darkness - https://scarletdarkness.com/
 - Steve Madden - https://www.stevemadden.com/
 - Torrid - https://www.torrid.com
