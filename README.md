@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Robyn (Robbie)
 - 👀 I’m interested in C#, SQL, JavaScript, HTML, Blazor, and other fun things.
-- 🌱 I'm also currently working on a new application for job seekers using Blazor and LaTeX.
-- 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities.
+- 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities
 - 📫 How to reach me: Robyn@SandAngel.com
 - ⚡ Big Rex Software YouTube Channel: https://www.youtube.com/@bigrexsoftware
 - 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
