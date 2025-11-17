@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robyn (Robbie)
+- 👋 Hi, I’m Robyn
 - 👀 I’m interested in C#, SQL, JavaScript, HTML, Blazor, and other fun things
 - 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities
 - 📫 How to reach me: Robyn@BigRexSoftware.com
