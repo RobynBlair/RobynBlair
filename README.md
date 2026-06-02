@@ -3,7 +3,7 @@
 - 💞️ I’m wanting to collaborate on creating technical projects for LGBTQ+ people and communities
 - 📫 How to reach me: Robyn@BigRexSoftware.com
 - ⚡ Big Rex Software YouTube Channel: https://www.youtube.com/@bigrexsoftware
-- 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robbiehaasch/
+- 👩🏻‍💼 LinkedIn Profile: https://www.linkedin.com/in/robynhaasch/
 - 👩🏻‍💻 GitHub: https://github.com/robynblair
 - 🦖 GitHub: https://github.com/bigrexsoftware
 - ⚡ Fun fact: I learned to play a musical saw from my grandfather
